@@ -1,56 +1,97 @@
-<h2 align="left">👋 Meu nome é Eduardo e eu sou um desenvolvedor Front-end</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0ea5e9,100:6366f1&text=Eduardo%20Enrique&fontColor=ffffff&fontSize=46&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack&descAlignY=58&descSize=18" width="100%" alt="Eduardo Enrique — Desenvolvedor Full Stack" />
 
-<p align="left">
-🎓 Estudante de Análise e Desenvolvimento de Sistemas no UniSenac<br>
-💼 Desenvolvedor Front-end na Chatlabs
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=Desenvolvedor+Full+Stack+na+Chatlabs;TypeScript+%C2%B7+NestJS+%C2%B7+Next.js+%C2%B7+GraphQL+%C2%B7+PostgreSQL;Do+banco+de+dados+ao+pixel%2C+em+produ%C3%A7%C3%A3o" alt="Typing SVG" />
 </p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/duduenri/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:eduess290799@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+  <a href="https://findercaptacao.com.br"><img src="https://img.shields.io/badge/Finder%20Capta%C3%A7%C3%A3o-111827?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" alt="Finder Captação" /></a>
+  <img src="https://img.shields.io/badge/Pelotas%20%2F%20RS-1f2937?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Pelotas / RS" />
+</p>
 
-###
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/duduenri/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://whatsa.me/5553991176921" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=eduess290799@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/duduenri/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+### 👨‍💻 Sobre mim
 
-###
+Sou desenvolvedor full stack na **[Chatlabs](https://www.chatlabs.com.br)**, um SaaS de atendimento e vendas pelo WhatsApp. Trabalho de ponta a ponta: modelo o banco, escrevo a API, cuido das filas e integrações e entrego a interface.
 
-<h3 align="left">📊 Estatísticas do GitHub</h3>
+- 🧩 Gosto de trabalhar perto do produto e do problema do cliente
+- 🤖 Hoje estudo desenvolvimento assistido por IA (context engineering e spec-driven development)
+- 🏠 Nas horas vagas toco o **Finder Captação**, um SaaS para o mercado imobiliário
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Duduenri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Duduenri&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### 🚀 O que construo na Chatlabs
 
-<div align="center">
+| Entrega | O que faz |
+|---|---|
+| 🎫 **Helpdesk** | Tickets por e-mail (IMAP/SMTP), SLA, filas, permissões e anexos |
+| 🧱 **Landing Page Builder** | Hotsites multi-tenant com seções arrastáveis, SEO e onboarding self-service |
+| 💬 **Webchat embutível** | Widget para sites de clientes, com horário de atendimento e validação de domínio |
+| 🔌 **Integrações** | Meta Ads/Lead Forms, WhatsApp Cloud API e CRMs parceiros com sincronização bidirecional |
+
+---
+
+### 🛠️ Projetos
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏠 <a href="https://findercaptacao.com.br">Finder Captação</a></h4>
+      <sub><b>Projeto pessoal · em produção</b></sub>
+      <p>SaaS de captação e gestão de imóveis usado por <b>4 imobiliárias e 5 corretores</b> em Pelotas. CRM com kanban e roleta de leads, agente de IA no WhatsApp, enriquecimento de dados de imóveis e sites white-label.</p>
+      <img src="https://skillicons.dev/icons?i=nextjs,express,prisma,supabase,redis,docker" height="32" alt="Next.js, Express, Prisma, Supabase, Redis, Docker" />
+      <br /><sub>🔒 Código privado</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⛵ Escola Náutica Barlavento</h4>
+      <sub><b>Projeto freelance · entregue</b></sub>
+      <p>Plataforma de estudos para habilitação náutica, feita do zero e usada por <b>20 alunos</b>: apostilas, banco de questões, simulador de prova e painel do professor.</p>
+      <img src="https://skillicons.dev/icons?i=nextjs,prisma,supabase,tailwind,vitest,docker" height="32" alt="Next.js, Prisma, Supabase, Tailwind, Vitest, Docker" />
+      <br /><sub>🔒 Código privado</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎬 <a href="https://github.com/Duduenri/Grabber">Grabber</a></h4>
+      <sub><b>Open source</b></sub>
+      <p>Extensão Chrome/Firefox (Manifest V3) que detecta vídeos HLS/MP4 na página e baixa localmente, com remux TS→MP4 e integração com yt-dlp.</p>
+      <img src="https://skillicons.dev/icons?i=ts" height="32" alt="TypeScript" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🗓️ <a href="https://github.com/Duduenri/telegram-bot">Life OS</a></h4>
+      <sub><b>Projeto pessoal</b></sub>
+      <p>Bot de Telegram para tarefas, lembretes e finanças do casal, com rotinas agendadas.</p>
+      <img src="https://skillicons.dev/icons?i=nestjs,prisma,postgres" height="32" alt="NestJS, Prisma, PostgreSQL" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🧰 Stack
+
+<p align="center">
+  <b>Back-end</b><br /><br />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,graphql,postgres,prisma,redis,rabbitmq,elasticsearch" alt="Back-end" />
+</p>
+
+<p align="center">
+  <b>Front-end</b><br /><br />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,astro,svelte" alt="Front-end" />
+</p>
+
+<p align="center">
+  <b>Infra e qualidade</b><br /><br />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,supabase,vitest,git" alt="Infra e qualidade" />
+</p>
+
+---
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Duduenri/Duduenri/output/snake.svg" alt="Snake animation" />
-</div>
+</p>
 
-<br clear="both">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6366f1,100:0ea5e9&section=footer" width="100%" alt="" />
