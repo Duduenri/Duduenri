@@ -46,7 +46,7 @@ Sou desenvolvedor full stack na **[Chatlabs](https://www.chatlabs.com.br)**, um 
       <br /><sub>🔒 Código privado</sub>
     </td>
     <td width="50%" valign="top">
-      <h4>⛵ Escola Náutica Barlavento</h4>
+      <h4>⛵ <a href="https://escolabarlavento.com.br/">Escola Náutica Barlavento</a></h4>
       <sub><b>Projeto freelance · entregue</b></sub>
       <p>Plataforma de estudos para habilitação náutica, feita do zero e usada por <b>20 alunos</b>: apostilas, banco de questões, simulador de prova e painel do professor.</p>
       <img src="https://skillicons.dev/icons?i=nextjs,prisma,supabase,tailwind,vitest,docker" height="32" alt="Next.js, Prisma, Supabase, Tailwind, Vitest, Docker" />
