@@ -41,7 +41,7 @@ Sou desenvolvedor full stack na **[Chatlabs](https://www.chatlabs.com.br)**, um 
     <td width="50%" valign="top">
       <h4>🏠 <a href="https://findercaptacao.com.br">Finder Captação</a></h4>
       <sub><b>Projeto pessoal · em produção</b></sub>
-      <p>SaaS de captação e gestão de imóveis usado por <b>4 imobiliárias e 5 corretores</b> em Pelotas. CRM com kanban e roleta de leads, agente de IA no WhatsApp, enriquecimento de dados de imóveis e sites white-label.</p>
+      <p>SaaS que ajuda corretores e imobiliárias de Pelotas a <b>captar imóveis na cidade e colocá-los na própria carteira</b>. Usado por <b>4 imobiliárias e 5 corretores</b>: captação com dados de matrícula e IPTU, CRM com kanban e roleta de leads, automações financeiras e operacionais e sites white-label.</p>
       <img src="https://skillicons.dev/icons?i=nextjs,express,prisma,supabase,redis,docker" height="32" alt="Next.js, Express, Prisma, Supabase, Redis, Docker" />
       <br /><sub>🔒 Código privado</sub>
     </td>
