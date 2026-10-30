@@ -15,7 +15,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou desenvolvedor full stack na **[Chatlabs](https://www.chatlabs.com.br)**, um SaaS de atendimento e vendas pelo WhatsApp. Trabalho de ponta a ponta: modelo o banco, escrevo a API, cuido das filas e integrações e entrego a interface.
+Sou desenvolvedor full stack na **[Chatlabs](https://www.chatlabs.com.br)**, plataforma omnichannel e parceira oficial da Meta: WhatsApp, Instagram, Messenger, Webchat e e-mail num só painel, com agente de IA, chatbot e CRM integrado. Trabalho de ponta a ponta: modelo o banco, escrevo a API, cuido das filas e integrações e entrego a interface.
 
 - 🧩 Gosto de trabalhar perto do produto e do problema do cliente
 - 🤖 Hoje estudo desenvolvimento assistido por IA (context engineering e spec-driven development)
@@ -30,7 +30,9 @@ Sou desenvolvedor full stack na **[Chatlabs](https://www.chatlabs.com.br)**, um 
 | 🎫 **Helpdesk** | Tickets por e-mail (IMAP/SMTP), SLA, filas, permissões e anexos |
 | 🧱 **Landing Page Builder** | Hotsites multi-tenant com seções arrastáveis, SEO e onboarding self-service |
 | 💬 **Webchat embutível** | Widget para sites de clientes, com horário de atendimento e validação de domínio |
-| 🔌 **Integrações** | Meta Ads/Lead Forms, WhatsApp Cloud API e CRMs parceiros com sincronização bidirecional |
+| 🔌 **Integrações** | Meta Ads/Lead Forms, WhatsApp Cloud API, CRMs parceiros com sincronização bidirecional e agenda de clínicas com confirmação automática de consultas |
+| 🎬 **Mídia** | Fila de conversão de vídeos do iPhone para MP4 (BullMQ + FFmpeg) antes do envio pelo WhatsApp |
+| 🗨️ **Chat interno** | Conversas da equipe com controle de acesso (LGPD) e contadores de não lidas |
 
 ---
 
@@ -39,12 +41,20 @@ Sou desenvolvedor full stack na **[Chatlabs](https://www.chatlabs.com.br)**, um 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h4>🥗 <a href="https://github.com/Duduenri/nutr.ia">nutri.ia</a></h4>
+      <sub><b>Projeto pessoal · em uso · código aberto</b></sub>
+      <p>Diário alimentar com IA, mobile-first: registro por <b>foto do prato, voz, código de barras e tabela TACO</b>, metas que se ajustam ao perfil, jejum, coach por chat e lembretes por push. Usado para <b>emagrecimento, musculação</b> (sugestão de carga e recordes) e <b>pós-bariátrica</b> (meta de proteína, suplementos e leitura de exames por IA).</p>
+      <img src="https://skillicons.dev/icons?i=nestjs,prisma,postgres,react,vite,tailwind,docker" height="32" alt="NestJS, Prisma, PostgreSQL, React, Vite, Tailwind, Docker" />
+    </td>
+    <td width="50%" valign="top">
       <h4>🏠 <a href="https://findercaptacao.com.br">Finder Captação</a></h4>
       <sub><b>Projeto pessoal · em produção</b></sub>
       <p>SaaS que ajuda corretores e imobiliárias de Pelotas a <b>captar imóveis na cidade e colocá-los na própria carteira</b>. Usado por <b>4 imobiliárias e 5 corretores</b>: captação com dados de matrícula e IPTU, CRM com kanban e roleta de leads, automações financeiras e operacionais e sites white-label.</p>
       <img src="https://skillicons.dev/icons?i=nextjs,express,prisma,supabase,redis,docker" height="32" alt="Next.js, Express, Prisma, Supabase, Redis, Docker" />
       <br /><sub>🔒 Código privado</sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>⛵ <a href="https://escolabarlavento.com.br/">Escola Náutica Barlavento</a></h4>
       <sub><b>Projeto freelance · entregue</b></sub>
@@ -52,14 +62,14 @@ Sou desenvolvedor full stack na **[Chatlabs](https://www.chatlabs.com.br)**, um 
       <img src="https://skillicons.dev/icons?i=nextjs,prisma,supabase,tailwind,vitest,docker" height="32" alt="Next.js, Prisma, Supabase, Tailwind, Vitest, Docker" />
       <br /><sub>🔒 Código privado</sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>🎬 <a href="https://github.com/Duduenri/Grabber">Grabber</a></h4>
       <sub><b>Open source</b></sub>
       <p>Extensão Chrome/Firefox (Manifest V3) que detecta vídeos HLS/MP4 na página e baixa localmente, com remux TS→MP4 e integração com yt-dlp.</p>
       <img src="https://skillicons.dev/icons?i=ts" height="32" alt="TypeScript" />
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>🗓️ <a href="https://github.com/Duduenri/telegram-bot">Life OS</a></h4>
       <sub><b>Projeto pessoal</b></sub>
